@@ -7,6 +7,6 @@ class Doctor extends Traveler{
 
     }
     heal(Traveler){
-        Traveler.isHealthy =true
+      Traveler.isHealthy =true
     }
 }

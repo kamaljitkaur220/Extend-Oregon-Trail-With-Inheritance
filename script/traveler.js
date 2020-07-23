@@ -7,7 +7,7 @@ class Traveler{
 
     hunt(){
         this.food += 2
-        return this.food
+       
     }
 
    eat() {
